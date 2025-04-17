@@ -2,4 +2,5 @@ streamlit
 numpy
 pandas
 plotly
+scipy
 # Add any other libraries used (e.g., requests, beautifulsoup4 if using web search)
