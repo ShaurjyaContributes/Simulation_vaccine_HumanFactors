@@ -1,0 +1,10 @@
+vaccine_sim_app/
+├── app.py                   # Main Streamlit application file (UI, interaction logic)
+├── simulation_model.py      # Core simulation logic (SEIR, Supply Chain classes/functions)
+├── parameters.py            # Default parameters, functions to load/save parameters
+├── analysis.py              # Functions for calculating summary metrics (Attack Rate, Yield, Cost)
+├── utils.py                 # Helper functions (e.g., plotting)
+├── requirements.txt         # Python dependencies
+└── (Optional) web_search.py   # Web search functionality
+└── (Optional) geospatial.py  # Placeholder for geospatial features
+└── (Optional) bias_check.py  # Placeholder for bias checks

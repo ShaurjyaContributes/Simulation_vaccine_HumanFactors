@@ -1,0 +1,5 @@
+streamlit
+numpy
+pandas
+plotly
+# Add any other libraries used (e.g., requests, beautifulsoup4 if using web search)
